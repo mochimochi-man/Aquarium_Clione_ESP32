@@ -69,6 +69,6 @@ Select the port of the board connected over USB and upload.
 
 ## License
 
-Copyright of this project belongs to mochimochi-man / Uh (X : calorie0).
+Copyright of this project belongs to mochimochi-man (X : @MochimochimanEX).
 It is MIT licensed, so please feel free to use it.
 The clione images were generated with AI.

@@ -69,6 +69,6 @@ USBで接続したボードのポートを選び、書き込みます。
 
 ## ライセンス
 
-本プロジェクトの著作権は mochimochi-man / Uh (X : calorie0) に帰属します。
+本プロジェクトの著作権は mochimochi-man (X : @MochimochimanEX) に帰属します。
 MITライセンスですので、ご自由にお使いください。
 クリオネの画像はAIで生成しました。
